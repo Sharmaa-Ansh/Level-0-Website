@@ -78,7 +78,7 @@ hr{
     max-width: 450px;
     display: block;
     margin: auto;
-    margin-top: 0.2rem;
+    margin-top: 1rem;
 }
 
 .hero .hero-heading{
@@ -118,4 +118,8 @@ hr{
 
 .footer ul{
     padding-inline-start: 0px;
+}
+
+.def-color{
+    color: var(--primary-color);
 }
