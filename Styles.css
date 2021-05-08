@@ -123,3 +123,15 @@ hr{
 .def-color{
     color: var(--primary-color);
 }
+
+.text-center{
+    text-align: center;
+}
+
+.margin-top{
+    margin-top: 6rem;
+}
+
+.project-list-padding{
+    padding: 2rem 0rem;
+}
